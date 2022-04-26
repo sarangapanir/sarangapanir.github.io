@@ -1,1 +1,1 @@
-Tiddy Wiki Demo
+Tiddly Wiki Demo
